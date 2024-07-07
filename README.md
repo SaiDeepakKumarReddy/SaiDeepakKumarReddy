@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Deepak Kumar Reddy K</h1>
 <h3 align="center">I am a passionate Full Stack Developer pursuing Masters in Computer Engineering</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzltY21kcTJvNjA3c2EyYXp6bDB2bWlrdTZkMjE4eWlyaTNhOTczdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif"/>
+<img alt="coding" width="1200" height="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzltY21kcTJvNjA3c2EyYXp6bDB2bWlrdTZkMjE4eWlyaTNhOTczdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saideepakkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="saideepakkumarreddy" /> </p>
 
 - 🌱 I’m currently learning **Aws Cloud Practitioner and Associate Developer**
