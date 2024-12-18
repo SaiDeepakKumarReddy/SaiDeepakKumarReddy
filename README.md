@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Deepak Kumar Reddy K</h1>
-<h3 align="center">I am a passionate Full Stack Developer pursuing Masters in Computer Engineering</h3>
+<h3 align="center">Passionate Full Stack Developer 🚀</h3>
 <img alt="coding" width="1000" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzltY21kcTJvNjA3c2EyYXp6bDB2bWlrdTZkMjE4eWlyaTNhOTczdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saideepakkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="saideepakkumarreddy" /> </p>
 
